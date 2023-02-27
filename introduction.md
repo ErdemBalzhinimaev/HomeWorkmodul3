@@ -1,4 +1,4 @@
-[< к содержанию](readme.md)
+[< к содержанию](./readme.md)
 
 ## Введение
 
@@ -42,3 +42,5 @@ Linus_torvalds by The Linux Foundation - https://events.linuxfoundation.org/open
 license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Junio_hamano by Peter Adams - https://www.facesofopensource.com/junio-hamano/    license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+[def]: readme.md
