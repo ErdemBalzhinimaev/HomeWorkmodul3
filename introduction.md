@@ -43,4 +43,3 @@ license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Junio_hamano by Peter Adams - https://www.facesofopensource.com/junio-hamano/    license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-[def]: readme.md
