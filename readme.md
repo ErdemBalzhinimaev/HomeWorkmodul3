@@ -7,7 +7,7 @@
 ---
 
 ### **Содержание**
-1. *[Введение](./introduction)*
+1. *[Введение](./introduction.md)*
 2. *[Основные команды](./command.md)*
 3. *[Принцип работы с GIT](./principleofoperation.md)*
 4. *[Установка GIT](installation.md)*
